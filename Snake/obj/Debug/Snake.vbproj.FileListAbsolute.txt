@@ -1,0 +1,10 @@
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.Resources.resources
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.vbproj.GenerateResource.Cache
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\bin\Debug\Snake.xml
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.xml
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.pdb
+C:\Users\Киселёв\Documents\GitHub\Example\Snake\Snake\obj\Debug\Snake.vbprojResolveAssemblyReference.cache
